@@ -33,13 +33,11 @@
 
 ## ✨ Unique Features
 
-- 📊 Real-time Indian development indicators
-- 📱 Fully responsive with mobile-first design
-- 🌍 Multi-city comparison with interactive visualizations
-- 📈 Data fallback and error handling using TanStack Query
-- 🌓 Dark mode toggle
-- ⚙️ Configurable refresh intervals for live data
-- 📤 Shareable links, downloadable reports
+- 📱 Fully responsive with mobile-first design ![image](https://github.com/user-attachments/assets/c98f1811-1c44-48d7-bc90-8bdb87fd0fc8)
+- 🌓 Dark mode toggle ![image](https://github.com/user-attachments/assets/6d294d70-ec8f-4d86-8100-2580c36f6943)
+- 📤 Shareable links, downloadable reports ![image](https://github.com/user-attachments/assets/d32ab83c-a411-4176-892f-b6006cc642fb)
+- AI Insights report ![image](https://github.com/user-attachments/assets/89f709fb-b616-424e-9a8c-6f755c7aef43)
+- Policy Insights report ![image](https://github.com/user-attachments/assets/3220406f-abe4-4e97-ab6d-45cb1688d9d5)
 
 ---
 
